@@ -6,3 +6,5 @@ Just change the URL of your Browser Home Page to "https://pavich7.github.io/Open
 ## License
 This project is licensed under the The Unlicense - see the LICENSE file for details.\
 For more information, please refer to https://unlicense.org
+## PavichDev Open Source
+This repositories is a part of PavichDev Open Source
